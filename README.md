@@ -11,3 +11,6 @@ ESC 키를 누르면 종료되는 코드
 ![d_2021_07_14_15_41_13](https://user-images.githubusercontent.com/66056440/125575383-45b000ab-6a1e-4102-bd47-641b48e23e65.png)
 
 ## multicamera.py code 
+
+depth camera 3대를 동시에 렌더링하고 지정된 디렉토리에 프레임별로 날짜_시간 순서대로 저장되고 
+ESC 키를 누르면 종료되는 
